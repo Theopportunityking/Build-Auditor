@@ -1,4 +1,4 @@
-# The Five SMB Use Cases
+# The Five Use Cases
 ### Context file 3 of 3 — read before any audit
 
 These are the five most common AI system types built for SMB clients. Each maps to a primary architecture tier and carries specific failure patterns the auditor must check for.
