@@ -16,7 +16,7 @@ The routing architecture is always the starting point when a build handles more 
   SQL/Meta ]   + Compress]              Caching ]
   Exact facts  Scraped /    Cross-doc   Training /
   Inventory    SOPs/FAQs    reasoning   deep analysis
-  Order status Surface ans  Strategy    Onboarding
+  Order status Surface answers  Strategy    Onboarding
 ```
 
 The router can be:
