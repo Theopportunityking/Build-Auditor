@@ -1,15 +1,15 @@
 ---
-name: smb-ai-build-auditor
+name: AI-Build-Auditor
 description: >
   Use this skill when a builder needs to audit an AI system for retrieval
   degradation before client handoff. Triggers include: "run a pre-build audit",
   "QA this build", "is this ready to ship", "audit my retrieval architecture",
   or any request to evaluate an AI system before delivery to a non-technical
   client. Covers five SMB use case types across four retrieval tiers.
-  Platform-agnostic — works regardless of what tools were used to build the system.
+  Platform-agnostic: works regardless of what tools were used to build the system.
 ---
 
-# SMB AI Build Auditor — Skill Instructions
+# AI Build Auditor — Skill Instructions
 
 When this skill is invoked, read `00_entry/AGENT_START_HERE.md` and follow
 the navigation instructions from there. The directory structure is the workflow.
@@ -202,10 +202,9 @@ assets. That's the ICM advantage.
 
 ## About This Project
 
-Built by [Rico / WayMaker Services](https://github.com/yourusername) as a
-demonstration of ICM (Interpreted Context Methodology) — a framework for
+Built by Rico McPherson as a demonstration of ICM (Interpreted Context Methodology) — a framework for
 building agentic AI workflows using filesystem structure as the orchestration
 layer, with no custom code required.
 
-The methodology: directories are state machines. Files are instructions.
+The methodology: Directories are state machines. Files are instructions.
 The agent reads and acts. No framework dependency. No lock-in.
